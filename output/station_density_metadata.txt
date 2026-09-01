@@ -1,0 +1,48 @@
+Station-density analysis
+
+Station source:
+https://bulk.meteostat.net/v2/stations/lite.json.gz
+
+Meteostat dataset:
+Lite dump containing active stations listed in the Meteostat public
+weather-station directory.
+
+Area source:
+World Bank indicator AG.LND.TOTL.K2 (Land area, km²).
+
+Countries analysed:
+Germany, Switzerland, Netherlands, Belgium, Austria, Denmark, Croatia, Japan, United Kingdom, Italy, Finland, Norway, Portugal, France, United States, Sweden, Poland, Spain, Australia, China
+
+Area reference years found:
+2023
+
+Important interpretation:
+'Active Meteostat Stations' represents active publicly indexed stations
+available in the Meteostat directory. It must not be interpreted as an
+exhaustive count of all stations operated by each national meteorological
+service.
+
+'WMO-Identified Stations' is a narrower subset whose Meteostat metadata
+contain a WMO identifier. This may exclude official stations without a WMO
+identifier and therefore should not be treated as the complete national
+official network.
+
+Density formula:
+station count / land area in km² * 1,000
+
+Equivalent grid spacing:
+sqrt(land area / station count)
+
+The equivalent spacing is an intuitive square-grid approximation and is
+not an observed mean nearest-neighbour distance.
+
+Mean nearest-station distance:
+For each active Meteostat station with valid coordinates, the nearest other
+station within the same country is found using a BallTree with the Haversine
+metric. Angular distances are converted to kilometres using an Earth radius
+of 6371.0088 km, and the arithmetic mean is reported by country.
+
+National meteorological service:
+The service name is descriptive country-level context. Active station counts
+refer to the Meteostat directory and not exclusively to stations operated by
+the listed national meteorological service.

@@ -1,0 +1,21 @@
+﻿Country,National Meteorological Service,ISO2,ISO3,Land Area (km²),Area Reference Year,Active Meteostat Stations,WMO-Identified Stations,"Active Meteostat Stations per 1,000 km²","WMO-Identified Stations per 1,000 km²",Equivalent Grid Spacing (km),Stations with Valid Coordinates,Mean Nearest-Station Distance (km)
+Germany,DWD,DE,DEU,349430,2023,1397,317,3.9979,0.9072,15.82,1397,10.59
+Switzerland,MeteoSwiss,CH,CHE,39510,2023,107,101,2.7082,2.5563,19.22,107,11.55
+Netherlands,KNMI,NL,NLD,33670,2023,64,52,1.9008,1.5444,22.94,64,24.31
+Belgium,Royal Meteorological Institute of Belgium,BE,BEL,30494,2023,35,34,1.1478,1.115,29.52,35,16.51
+Austria,GeoSphere Austria,AT,AUT,82520,2023,93,91,1.127,1.1028,29.79,93,14.07
+Denmark,DMI,DK,DNK,40000,2023,43,36,1.075,0.9,30.5,43,29.02
+Croatia,DHMZ,HR,HRV,55960,2023,45,44,0.8041,0.7863,35.26,45,28.38
+Japan,Japan Meteorological Agency,JP,JPN,364569,2023,278,257,0.7625,0.7049,36.21,278,28.37
+United Kingdom,Met Office,GB,GBR,241930,2023,177,143,0.7316,0.5911,36.97,177,66.02
+Italy,Servizio Meteorologico Italiano,IT,ITA,295720,2023,170,156,0.5749,0.5275,41.71,170,26.89
+Finland,Finnish Meteorological Institute,FI,FIN,303960,2023,174,170,0.5724,0.5593,41.8,174,24.78
+Norway,MET Norway,NO,NOR,364270,2023,192,173,0.5271,0.4749,43.56,192,38.56
+Portugal,IPMA,PT,PRT,91606,2023,39,37,0.4257,0.4039,48.47,39,34.06
+France,Météo-France,FR,FRA,538950,2023,223,199,0.4138,0.3692,49.16,223,30.51
+United States,NOAA,US,USA,9147420,2023,2701,637,0.2953,0.0696,58.2,2701,35.53
+Sweden,SMHI,SE,SWE,407270,2023,108,92,0.2652,0.2259,61.41,108,28.32
+Poland,IMGW-PIB,PL,POL,306270,2023,81,73,0.2645,0.2384,61.49,81,41.66
+Spain,AEMET,ES,ESP,499697,2023,104,95,0.2081,0.1901,69.32,104,39.4
+Australia,Bureau of Meteorology,AU,AUS,7692020,2023,813,776,0.1057,0.1009,97.27,813,50.17
+China,China Meteorological Administration,CN,CHN,9388210,2023,263,245,0.028,0.0261,188.94,263,143.19
