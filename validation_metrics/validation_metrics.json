@@ -1,0 +1,149 @@
+{
+  "rmse": {
+    "label": "RMSE",
+    "terms": [
+      "rmse",
+      "root mean square error",
+      "root-mean-square error",
+      "root mean squared error",
+      "root-mean-squared error"
+    ]
+  },
+
+  "mse": {
+    "label": "MSE",
+    "terms": [
+      "mse",
+      "mean square error",
+      "mean squared error"
+    ]
+  },
+
+  "mae": {
+    "label": "MAE",
+    "terms": [
+      "mae",
+      "mean absolute error"
+    ]
+  },
+
+  "correlation": {
+    "label": "Correlation coefficient",
+    "terms": [
+      "correlation coefficient",
+      "pearson correlation coefficient",
+      "pearson correlation",
+      "pearson's correlation coefficient",
+      "pearson's r",
+      "pearson r",
+      "linear correlation coefficient"
+    ]
+  },
+
+  "r2": {
+    "label": "R²",
+    "terms": [
+      "r2",
+      "r²",
+      "r^2",
+      "r-squared",
+      "r squared",
+      "coefficient of determination",
+      "determination coefficient"
+    ]
+  },
+
+  "mape": {
+    "label": "MAPE",
+    "terms": [
+      "mape",
+      "mean absolute percentage error",
+      "mean absolute percent error"
+    ]
+  },
+
+  "other": {
+    "label": "Other",
+    "terms": [
+      "mbe",
+      "mean bias error",
+
+      "nrmse",
+      "normalized rmse",
+      "normalised rmse",
+      "normalized root mean square error",
+      "normalised root mean square error",
+      "normalized root mean squared error",
+      "normalised root mean squared error",
+
+      "nmse",
+      "normalized mean square error",
+      "normalised mean square error",
+
+      "nmae",
+      "normalized mean absolute error",
+      "normalised mean absolute error",
+
+      "smape",
+      "symmetric mean absolute percentage error",
+
+      "mase",
+      "mean absolute scaled error",
+
+      "rmsle",
+      "root mean squared logarithmic error",
+
+      "msle",
+      "mean squared logarithmic error",
+
+      "index of agreement",
+      "willmott index",
+      "willmott's index",
+      "willmott index of agreement",
+
+      "nash-sutcliffe efficiency",
+      "nash sutcliffe efficiency",
+      "nse",
+
+      "kling-gupta efficiency",
+      "kge",
+
+      "skill score",
+      "forecast skill score",
+
+      "fractional bias",
+      "fac2",
+      "factor of two",
+
+      "crps",
+      "continuous ranked probability score",
+
+      "brier score",
+
+      "median absolute error",
+
+      "false alarm ratio",
+
+      "critical success index",
+      "csi",
+
+      "equitable threat score",
+      "ets",
+
+      "probability of detection",
+
+      "f1-score",
+      "f1 score",
+
+      "roc-auc",
+      "roc auc",
+      "area under the roc curve",
+
+      "ssim",
+      "structural similarity index",
+
+      "psnr",
+      "peak signal-to-noise ratio"
+    ]
+  }
+}
